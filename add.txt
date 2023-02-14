@@ -1,4 +1,4 @@
 add
 edited in local
 add2
-remote
+local
